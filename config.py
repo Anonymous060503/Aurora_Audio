@@ -1,0 +1,7 @@
+import os
+
+API_ID = int(os.getenv("API_ID", "21974088"))
+API_HASH = os.getenv("API_HASH", "94befd5a9f709b8372cfa19f2caf188d")
+BOT_TOKEN = os.getenv("BOT_TOKEN", "8295654973:AAFCpZglYZ4d4VmTZ1uFyIcI6mi-aHk-M0w")
+
+OWNER_ID = int(os.getenv("OWNER_ID", "6962534336"))
