@@ -55,17 +55,6 @@ Aurora ensures an **uninterrupted, smooth, and high-performance** media streamin
 
 - ---
 
-## 💡 Author
-
-**Developed with ❤️ by Mr Anonymous**
-
-- Telegram: [𝘼𝘼𝘿𝙄](https://t.me/aditya_was_bot)  
-- GitHub: [@Anonymous060503](https://github.com/Anonymous060503)
-
-> If you find this project useful, feel free to ⭐ the repo and join the support channel for updates.
-
----
-
 ## 💡 Author & Credits
 
 <p align="center">
