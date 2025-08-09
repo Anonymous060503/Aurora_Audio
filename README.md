@@ -58,35 +58,7 @@ Aurora ensures an **uninterrupted, smooth, and high-performance** media streamin
 ## 💡 Author & Credits
 
 <p align="center">
-  <img src="https://img.icons8.com/fluency/96/000000/developer.png" alt="Developer Logo"/>
-</p>
-
-<h3 align="center">Developed with ❤️ by <strong>Mr Anonymous</strong></h3>
-
-<p align="center">
-  <a href="https://t.me/yourtelegramusername">
-    <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram"/>
-  </a>
-  <a href="https://github.com/Anonymous060503">
-    <img src="https://img.shields.io/badge/GitHub-Anonymous060503-black?style=for-the-badge&logo=github"/>
-  </a>
-</p>
-
-<p align="center">
-  🚀 Passionate about building <strong>fast, stable & scalable Telegram bots</strong> with clean, production-ready code.
-</p>
-
----
-
-> ⭐ **Pro Tip:** If you like this project, give it a star on GitHub and share it with your friends!
-
-
----
-
-## 💡 Author & Credits
-
-<p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" alt="Developer Animated Logo"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="1020" height="1980" alt="Developer Animated Logo"/>
 </p>
 
 <h3 align="center">Developed with ❤️ by <strong>Mr Anonymous</strong></h3>
