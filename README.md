@@ -58,7 +58,7 @@ Aurora ensures an **uninterrupted, smooth, and high-performance** media streamin
 ## 💡 Author & Credits
 
 <p align="center">
-  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="1020" height="1980" alt="Developer Animated Logo"/>
+  <img src="https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif" width="120" alt="Developer Animated Logo"/>
 </p>
 
 <h3 align="center">Developed with ❤️ by <strong>Mr Anonymous</strong></h3>
