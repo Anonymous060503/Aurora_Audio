@@ -64,7 +64,7 @@ Aurora ensures an **uninterrupted, smooth, and high-performance** media streamin
 <h3 align="center">Developed with ❤️ by <strong>Mr Anonymous</strong></h3>
 
 <p align="center">
-  <a href="https://t.me/yourtelegramusername">
+  <a href="https://t.me/aditya_was_bot">
     <img src="https://img.shields.io/badge/Telegram-Contact-blue?style=for-the-badge&logo=telegram"/>
   </a>
   <a href="https://github.com/Anonymous060503">
